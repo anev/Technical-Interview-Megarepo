@@ -30,7 +30,7 @@ This repository contains study materials for technical interviews.
 * [Interview Stories](http://intearview.com/)
 
 ## Books
-* [Cracking the Coding Interview](http://www.amazon.com/gp/product/098478280X/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=098478280X&linkCode=as2&tag=htcatu-20&linkId=B6WXIEKJHEBBWJ7B)
+* [Cracking the Coding Interview](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
 
 
 ## Get Help
